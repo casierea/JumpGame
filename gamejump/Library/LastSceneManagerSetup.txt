@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/if.unity
+- path: Assets/Scenes/Shaoes.unity
   isLoaded: 1
   isActive: 1
