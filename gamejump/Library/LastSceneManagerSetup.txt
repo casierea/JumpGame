@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MouseEventPractice.unity
+- path: Assets/Scenes/if.unity
   isLoaded: 1
   isActive: 1
